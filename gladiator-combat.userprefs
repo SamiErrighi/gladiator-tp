@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="gladiator-combat/Match.cs">
+    <Files>
+      <File FileName="gladiator-combat/Match.cs" Line="97" Column="34" />
+      <File FileName="gladiator-combat/duel.cs" Line="71" Column="1" />
+      <File FileName="gladiator-combat/Gladiateur.cs" Line="154" Column="82" />
+      <File FileName="gladiator-combat/Equipement.cs" Line="44" Column="43" />
+      <File FileName="gladiator-combat/Arme.cs" Line="31" Column="26" />
+      <File FileName="gladiator-combat/Joueur.cs" Line="72" Column="35" />
+      <File FileName="gladiator-combat/Armure.cs" Line="21" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

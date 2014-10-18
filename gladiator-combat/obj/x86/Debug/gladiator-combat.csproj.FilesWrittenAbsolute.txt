@@ -1,0 +1,10 @@
+/Users/errighisami/Projects/gladiator-combat/gladiator-combat/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/errighisami/Projects/gladiator-combat/gladiator-combat/bin/Debug/gladiator-combat.exe.mdb
+/Users/errighisami/Projects/gladiator-combat/gladiator-combat/bin/Debug/gladiator-combat.exe
+/Users/errighisami/Projects/gladiator-combat/gladiator-combat/obj/x86/Debug/gladiator-combat.exe
+/Users/errighisami/Projects/gladiator-combat/gladiator-combat/obj/x86/Debug/gladiator-combat.exe.mdb
+/Users/errighisami/Documents/gladiator/gladiator-combat/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/errighisami/Documents/gladiator/gladiator-combat/bin/Debug/gladiator-combat.exe.mdb
+/Users/errighisami/Documents/gladiator/gladiator-combat/bin/Debug/gladiator-combat.exe
+/Users/errighisami/Documents/gladiator/gladiator-combat/obj/x86/Debug/gladiator-combat.exe
+/Users/errighisami/Documents/gladiator/gladiator-combat/obj/x86/Debug/gladiator-combat.exe.mdb
